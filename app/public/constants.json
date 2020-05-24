@@ -1,0 +1,8 @@
+{
+  "cashTokenAddress": "0x572B08276f9d47419a364d88695A4B5d0417DD84",
+  "dropsTokenAddress": "0x9518Eea908b1d33Ba3d3CE83C08f1Ab90345bDe9",
+  "whitelist": {
+    "0xbCe36bC4c9f05c92d3ef32d6Aa44975088836368": "George Boole",
+    "0x59381c98f749E3E80B77AB650D8A284c92eb1A90":"Charles Babbage"
+  }
+}
